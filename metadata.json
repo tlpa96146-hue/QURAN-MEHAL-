@@ -1,0 +1,7 @@
+{
+  "name": "Al-Noor Quran Shop",
+  "description": "A premium e-commerce platform for high-quality Qurans, Tajweed editions, and Islamic gifts, featuring an AI shopping assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
